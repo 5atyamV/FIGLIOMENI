@@ -1,0 +1,8 @@
+{
+  "name": "Figliomeni Tiling & Renovations",
+  "description": "High-end, Italian-inspired luxury tiling and renovation services. Modern Heritage aesthetic with precision craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
